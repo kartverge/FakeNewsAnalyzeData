@@ -1,0 +1,62 @@
+Titles with biggest matching templates:
+
+[3 templates] UAE says Trump travel ban an internal affair, most Muslims unaffected
+   Matching templates: says trump, travel ban, trump travel
+
+[3 templates] Seattle judge says Trump travel ban case should continue during appeals
+   Matching templates: says trump, travel ban, trump travel
+
+[3 templates] Trump, South Korea's Moon discuss next steps on North Korea: White House
+   Matching templates: white house, north korea, south korea
+
+[3 templates] U.S. Supreme Court revival on Trump travel ban draws praise, criticism
+   Matching templates: travel ban, supreme court, trump travel
+
+[3 templates] Trump, South Korea's Hwang agree to strengthen defenses against North Korea: White House
+   Matching templates: white house, north korea, south korea
+
+[3 templates] U.N. chief says Trump travel ban 'not best way to protect U.S.'
+   Matching templates: says trump, travel ban, trump travel
+
+[3 templates] Supreme Court dismisses Hawaii's challenge to Trump travel ban
+   Matching templates: travel ban, supreme court, trump travel
+
+[3 templates] Trump says Supreme Court decision on travel ban 'a clear victory'
+   Matching templates: trump says, travel ban, supreme court
+
+[3 templates] Trump travel ban fight heads toward Supreme Court showdown
+   Matching templates: travel ban, supreme court, trump travel
+
+[3 templates] South Korea says Trump's warning to North Korea 'firm and specific'
+   Matching templates: north korea, says trump, south korea
+
+[3 templates] Trump administration defends travel ban in Supreme Court brief
+   Matching templates: trump administration, travel ban, supreme court
+
+[3 templates] Supreme Court gives Hawaii until Tuesday to answer Trump travel ban motion
+   Matching templates: travel ban, supreme court, trump travel
+
+[2 templates] Trump to urge all nations to isolate North Korea's 'brutal regime' in South Korea speech
+   Matching templates: north korea, south korea
+
+[2 templates] Hawaii renews bid to narrow Trump travel ban
+   Matching templates: travel ban, trump travel
+
+[2 templates] Trump says his travel ban needed to ensure U.S. religious freedom
+   Matching templates: trump says, travel ban
+
+[2 templates] First planned North Korea-U.S. contact in Trump administration canceled: WSJ
+   Matching templates: north korea, trump administration
+
+[2 templates] Trump says 'only one thing will work' with North Korea
+   Matching templates: north korea, trump says
+
+[2 templates] Trump administration pledges 'great strictness' on Iran nuclear deal
+   Matching templates: trump administration, nuclear deal
+
+[2 templates] Under Trump travel ban, Syrian Christians still see no light
+   Matching templates: travel ban, trump travel
+
+[2 templates] Iraq says ruling against Trump travel ban is move in right direction
+   Matching templates: travel ban, trump travel
+
